@@ -1,8 +1,5 @@
 {
   "name": "Ghost Gear Clothing",
   "description": "Pasadena's premier vintage archive and hype hub. A landing page detailing the hustle, the curation, and the gallery of authenticated grails.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
+  "requestFramePermissions": []
 }
